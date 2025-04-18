@@ -1,7 +1,7 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h1 align="left" style="margin-bottom: 5px;">🚀 Navaneet | Data Engineer </h1>
+      <h1 align="left" style="margin-bottom: 5px;">🚀 N R Navaneet | Data Engineer </h1>
       <p style="margin: 0;">
         🔹 Passionate about building scalable data solutions & cloud architectures.<br>
         🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & Blockchain.</b><br>
