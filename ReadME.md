@@ -64,6 +64,27 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=k-g-prajwal&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-g-prajwal&theme=merko&hide_border=true" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-g-prajwal&theme=github-dark&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=k-g-prajwal&theme=onestar&margin-w=5&no-frame=true" width="80%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/k-g-prajwal/k-g-prajwal/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
+---
+
 ## 🔗 Connect with Me
 
 <p align="center">
