@@ -68,11 +68,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nrnavaneet&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-g-prajwal&theme=merko&hide_border=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrnavaneet&theme=merko&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-g-prajwal&theme=github-dark&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrnavaneet&theme=high-contrast&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
 </p>
 
 <p align="center">
