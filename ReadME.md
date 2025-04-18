@@ -60,6 +60,6 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/nrnavaneet" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nrnavaneet" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="40" width="50" /></a>
   <a href="mailTo:navaneetnr@gmail.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
 </p>
