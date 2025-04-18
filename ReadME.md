@@ -1,11 +1,11 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h1 align="left" style="margin-bottom: 5px;">🚀 Navaneet | Data Engineer | Big Data Specialist 🌌</h1>
+      <h1 align="left" style="margin-bottom: 5px;">🚀 Navaneet | Data Engineer | Big Data Enthusiast </h1>
       <p style="margin: 0;">
         🔹 Passionate about building scalable data solutions & cloud architectures.<br>
         🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & Blockchain.</b><br>
-        🔹 Love Coding :)<br>
+        🔹 I Love Coding and Contributing :)<br>
       </p>
     </td>
     <td width="30%" align="center">
