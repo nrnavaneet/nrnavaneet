@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrnavaneet&theme=high-contrast"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrnavaneet&theme=merko"/>
 </p>
 
 <p align="center">
