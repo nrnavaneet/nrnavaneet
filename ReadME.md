@@ -3,13 +3,13 @@
     <td width="70%" valign="top">
       <h1 align="left" style="margin-bottom: 5px;">🚀 Navaneet | Data Engineer | Big Data Specialist 🌌</h1>
       <p style="margin: 0;">
-        🔹 Passionate about building scalable data solutions & cloud architectures.
-        🔹 Currently diving deeper into Open-source, Data engineering, ML/AI & Blockchain.
-        🔹 Love Coding :)
+        🔹 Passionate about building scalable data solutions & cloud architectures.<br>
+        🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & Blockchain.</b><br>
+        🔹 Love Coding :)<br>
       </p>
     </td>
     <td width="30%" align="center">
-      <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFnajUzNzN2aDNnd2JuNzU4bjU0dHZsdmQ1Y2lubW1iZTNoaG9taSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" 
            height="200px" width="280px" 
            alt="data engineering gif" 
            style="border-radius: 10px;" />
