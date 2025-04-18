@@ -76,10 +76,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k-g-prajwal&theme=onestar&margin-w=5&no-frame=true" width="80%" />
-</p>
-
-<p align="center">
   <img src="https://github.com/k-g-prajwal/k-g-prajwal/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
