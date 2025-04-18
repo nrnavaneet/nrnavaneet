@@ -61,5 +61,5 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/nrnaveneet" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="90" width="90" /></a>
-  <a href="mailTo:navaneetnr@gmail.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="80" width="80" /></a>
+  <a href="mailTo:navaneetnr@gmail.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="60" width="60" /></a>
 </p>
