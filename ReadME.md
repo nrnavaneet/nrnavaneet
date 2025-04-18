@@ -1,12 +1,18 @@
 <table>
   <tr>
     <td width="70%" valign="top">
-      <h1 align="left" style="margin-bottom: 5px;">🚀 Navaneet | Data Engineer | Big Data Enthusiast </h1>
+      <h1 align="left" style="margin-bottom: 5px;">🚀 Navaneet | Data Engineer </h1>
       <p style="margin: 0;">
         🔹 Passionate about building scalable data solutions & cloud architectures.<br>
         🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & Blockchain.</b><br>
         🔹 I Love Coding and Contributing :)<br>
       </p>
+      <p align="center">
+      <img src="https://komarev.com/ghpvc/?username=Sujithrathod&label=Profile%20views&color=0e75b6&style=flat" alt="Sujith Rathod" />
+      <a href="https://github.com/Sujithrathod">
+        <img ssrc="https://img.shields.io/github/followers/Sujithrathod?label=Follow&style=social" alt="Follow" />
+      </a>
+    </p>
     </td>
     <td width="30%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFnajUzNzN2aDNnd2JuNzU4bjU0dHZsdmQ1Y2lubW1iZTNoaG9taSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" 
