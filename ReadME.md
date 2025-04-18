@@ -9,7 +9,7 @@
       </p>
     </td>
     <td width="30%" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5tb3JqZ3V2d2JtZ3B0dWJ5Y2JhZzR4dWx1bWJqY2V6Y2V5dWZ6ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" 
+      <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" 
            height="200px" width="280px" 
            alt="data engineering gif" 
            style="border-radius: 10px;" />
@@ -64,5 +64,4 @@
 <p align="center">
   <a href="https://linkedin.com/in/nrnaveneet" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
   <a href="mailTo:navaneetnr@gmail.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
-  <a href="https://github.com/nrnavaneeet" target="blank"> <img src="https://www.svgrepo.com/show/512317/github-142.svg" height="30" width="40" /></a>
 </p>
