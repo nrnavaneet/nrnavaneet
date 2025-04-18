@@ -10,7 +10,7 @@
     </td>
     <td width="30%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFnajUzNzN2aDNnd2JuNzU4bjU0dHZsdmQ1Y2lubW1iZTNoaG9taSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" 
-           height="200px" width="280px" 
+           height="200px" width="200px" 
            alt="data engineering gif" 
            style="border-radius: 10px;" />
     </td>
