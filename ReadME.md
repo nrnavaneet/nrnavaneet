@@ -7,13 +7,15 @@
         🔹 Currently diving deeper into <b>Open-source, Data engineering, ML/AI & Blockchain.</b><br>
         🔹 I Love Coding and Contributing :)<br>
       </p>
+      <p align="center" style="margin-top: 5px;">
+        <a href="https://github.com/nrnavaneet">
+          <img src="https://komarev.com/ghpvc/?username=nrnavaneet&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+        </a>
+        <a href="https://github.com/nrnavaneet?tab=followers">
+          <img src="https://img.shields.io/github/followers/nrnavaneet?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+        </a>
+      </p>
     </td>
-    <p align="center">
-      <img src="https://komarev.com/ghpvc/?username=nrnavaneet&label=Profile%20views&color=0e75b6&style=flat" alt="N R Navaneet />
-      <a href="https://github.com/nrnavaneet">
-        <img ssrc="https://img.shields.io/github/followers/nrnavaneet?label=Follow&style=social" alt="Follow" />
-      </a>
-    </p>
     <td width="30%" align="center">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjFnajUzNzN2aDNnd2JuNzU4bjU0dHZsdmQ1Y2lubW1iZTNoaG9taSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DbXSzkKLzy96e3uukf/giphy.gif" 
            height="200px" width="200px" 
