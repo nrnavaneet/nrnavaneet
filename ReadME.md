@@ -10,10 +10,10 @@
       </p>
       <p align="center" style="margin-top: 10px;">
         <a href="https://github.com/navaneetrn">
-          <img src="https://komarev.com/ghpvc/?username=navaneetrn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+          <img src="https://komarev.com/ghpvc/?username=nrnavaneetrn&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
         </a>
         <a href="https://github.com/navaneetrn?tab=followers">
-          <img src="https://img.shields.io/github/followers/navaneetrn?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
+          <img src="https://img.shields.io/github/followers/nrnavaneetrn?color=blue&label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers" />
         </a>
       </p>
     </td>
