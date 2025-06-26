@@ -67,7 +67,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nrnavaneet&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrnavaneet&theme=merko&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
