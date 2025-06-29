@@ -74,7 +74,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/k-g-prajwal/nrnavaneet/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
+  <img src="https://github.com/nrnavaneet/nrnavaneet/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
 ---
