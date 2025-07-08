@@ -70,6 +70,9 @@
   &nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet" />
 </p>
 
+<p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=nrnavaneet&theme=dark" alt="N R Navaneet" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/snake.svg" alt="Snake animation" />
