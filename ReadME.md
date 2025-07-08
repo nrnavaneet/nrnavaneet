@@ -66,7 +66,7 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrnavaneet&theme=github-dark&bg_color=0D1117&color=54FC00&line=54FC00&point=54FC00" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrnavaneet&theme=github-dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
 </p>
 
 <p align="center">
