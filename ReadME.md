@@ -72,7 +72,7 @@
 
 
 <p align="center">
-  ![snake animation](https://github.com/nrnavaneet/nrnavaneet/blob/output/github-contribution-grid-snake2.svg)
+  <img src="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
