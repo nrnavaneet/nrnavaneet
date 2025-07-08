@@ -70,6 +70,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=k-g-prajwal&theme=onestar&margin-w=5&no-frame=true" width="80%" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet" />
 </p>
 
