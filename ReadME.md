@@ -67,7 +67,6 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet" />
-  <img align="right" src="https://streak-stats.demolab.com/?user=nrnavaneet&theme=dark" alt="N R Navaneet" />
 </p>
 
 <p align="center">
