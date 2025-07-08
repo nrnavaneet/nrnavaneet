@@ -70,7 +70,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrnavaneet&theme=merko"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=Sujithrathod&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="Sujith Rathod" /></p>
+  
 </p>
 
 <p align="center">
