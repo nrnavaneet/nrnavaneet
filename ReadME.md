@@ -72,10 +72,8 @@
 
 
 <p align="center">
-  ![snake animation](https://github.com/<seu nrnavaneet>/<seu nrnavaneet>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/nrnavaneet/nrnavaneet/blob/output/github-contribution-grid-snake2.svg)
 </p>
-
-<img src="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/snake.svg" alt="Snake animation" />
 
 ---
 
