@@ -65,9 +65,6 @@
 
 ## 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nrnavaneet&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
-</p>
 
 <p align="center">
   &nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet" />
