@@ -70,8 +70,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/snake.svg" alt="Snake animation" />
+  <img src="https://github.com/nrnavaneet/nrnavaneet/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
 </p>
+
 
 ---
 
