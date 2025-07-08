@@ -69,8 +69,8 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrnavaneet&theme=github-dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=k-g-prajwal&theme=onestar&margin-w=5&no-frame=true" width="80%" />
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=nrnavaneet&theme=onestar&margin-w=5&no-frame=true" width="80%" />
 </p>
 
 <p align="center">
