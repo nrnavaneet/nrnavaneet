@@ -71,6 +71,10 @@
 </p>
 
 
+<p align="center">
+  <img src="https://github.com/nrnavaneeet/nrnavaneet/blob/output/github-snake.svg" alt="GitHub Snake Animation" />
+</p>
+
 <img src="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/snake.svg" alt="Snake animation" />
 
 ---
