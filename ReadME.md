@@ -66,6 +66,12 @@
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nrnavaneet&show_icons=true&theme=merko&hide_border=true&count_private=true" width="49%" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-g-prajwal&theme=merko&hide_border=true" width="49%" /> -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nrnavaneet&layout=pie&show_icons=true&theme=merko&hide_border=true&count_private=true" width="25%" />
+</p>
+
+<p align="center">
   <img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet" />
 </p>
 
