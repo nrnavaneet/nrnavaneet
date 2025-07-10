@@ -73,7 +73,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nrnavaneet&theme=onestar&margin-w=5&no-frame=true" width="80%" />
 </p>
 
-![N R Navaneet's GitHub Stats](https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues)
+<p align="center">
+  <img src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet's GitHub Stats" />
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/snake.svg" alt="Snake animation" />
