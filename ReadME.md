@@ -75,14 +75,6 @@
   <img src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet's GitHub Stats" />
 </p>
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[nrnavaneet/[nrnavaneet]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[nrnavaneet]/output/pacman-contribution-graph.svg">
-</picture>
-
-
-
 
 
 ---
