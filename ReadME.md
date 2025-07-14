@@ -69,9 +69,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nrnavaneet&theme=github-dark&bg_color=0D1117&color=FFFFFF&line=FFFFFF&point=FFFFFF" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nrnavaneet&theme=onestar&margin-w=5&no-frame=true" width="80%" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=nrnavaneet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=nrnavaneet&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet's GitHub Stats" />
@@ -79,13 +80,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nrnavaneet/nrnavaneet/output/pacman-contribution-graph.svg">
 </picture>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=nrnavaneet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=nrnavaneet&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+
 
 
 
