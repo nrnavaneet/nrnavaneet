@@ -70,18 +70,3 @@
   <img src="https://streak-stats.demolab.com?user=nrnavaneet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=nrnavaneet&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" alt="N R Navaneet's GitHub Stats" />
-</p>
-
-
-
----
-
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/nrnavaneet" target="blank"><img src="https://www.svgrepo.com/show/448234/linkedin.svg" height="30" width="40" /></a>
-  <a href="mailTo:navaneetnr@gmail.com" target="blank"> <img src="https://www.svgrepo.com/show/349378/gmail.svg" height="30" width="40" /></a>
-</p>
