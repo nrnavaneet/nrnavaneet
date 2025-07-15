@@ -67,8 +67,8 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats-two-phi-88.vercel.app/api/top-langs?username=mokshithc&show_icons=true&theme=dark&locale=en&layout=compact"  /></p>
+<p><img align="left" src="https://github-readme-stats-two-phi-88.vercel.app/api/top-langs?username=navaneetnr&show_icons=true&theme=dark&locale=en&layout=compact"  /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=navaneetnr&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokshithc&theme=dark" alt="mokshithc" /></p>
