@@ -73,8 +73,8 @@
 </p>
 
 <!-- GitHub Stats Card -->
-<p ">
-  <img align="right src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" />
+<p align="center">
+  <img src="https://github-readme-stats-two-phi-88.vercel.app/api/top-langs?username=nrnavaneet&show_icons=true&theme=dark&locale=en&layout=compact" /></p></br>
 </p>
 
 <!-- GitHub Streak Card -->
