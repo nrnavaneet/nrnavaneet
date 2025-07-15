@@ -78,6 +78,6 @@
 </p>
 
 <!-- GitHub Streak Card -->
-<p >
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nrnavaneet&theme=dark" alt="nrnavaneet" />
+<p align="center>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nrnavaneet&theme=dark" alt="nrnavaneet" />
 </p>
