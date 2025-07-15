@@ -72,10 +72,6 @@
   <img src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" />
 </p>
 
-<!-- GitHub Stats Card -->
-<p align="right">
-  <img src="https://github-readme-stats-two-phi-88.vercel.app/api/top-langs?username=nrnavaneet&show_icons=true&theme=dark&locale=en&layout=compact" /></p></br>
-</p>
 
 <!-- GitHub Streak Card -->
 <p align="center">
