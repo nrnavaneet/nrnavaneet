@@ -69,11 +69,11 @@
 
 <!-- Top Languages Card -->
 <p >
-  <img align="left" src="https://github-readme-stats-two-phi-88.vercel.app/api/top-langs?username=nrnavaneet&show_icons=true&theme=dark&locale=en&layout=compact" />
+  <img align="left"src="https://github-readme-stats-two-phi-88.vercel.app/api?username=nrnavaneet&show_icons=true&theme=dark&locale=en&hide=stars,issues" />
 </p>
 
 <!-- GitHub Stats Card -->
-<p align="center">
+<p align="right">
   <img src="https://github-readme-stats-two-phi-88.vercel.app/api/top-langs?username=nrnavaneet&show_icons=true&theme=dark&locale=en&layout=compact" /></p></br>
 </p>
 
