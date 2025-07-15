@@ -66,7 +66,9 @@
 ## 📊 GitHub Stats & Activity
 
 
-<div align="center">
-    <img src="https://github-profile-trophy.vercel.app?username=nrnavaneet&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  /><br>
-  <img src="https://streak-stats.demolab.com?user=nrnavaneet&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+
+<p><img align="left" src="https://github-readme-stats-two-phi-88.vercel.app/api/top-langs?username=mokshithc&show_icons=true&theme=dark&locale=en&layout=compact"  /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats-two-phi-88.vercel.app/api?username=mokshithc&show_icons=true&theme=dark&locale=en&hide=stars,issues"  /></p>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mokshithc&theme=dark" alt="mokshithc" /></p>
