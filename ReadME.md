@@ -1,4 +1,3 @@
-
 <table>
   <tr>
     <td width="70%" valign="top">
