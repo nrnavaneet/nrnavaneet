@@ -1,7 +1,6 @@
 # Hello there 👋
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=nrnavaneet.nrnavaneet)
-![Profile Views](https://komarev.com/ghpvc/?username=nrnavaneet&label=Profile%20Views&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=nrnavaneet&label=Profile%20Views&color=blue&style=flat-square)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ```python
