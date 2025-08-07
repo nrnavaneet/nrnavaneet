@@ -42,6 +42,8 @@ me.say_hi()
 ![ETL](https://img.shields.io/badge/Process-ETL-informational?style=flat&logo=dataiku&logoColor=white&color=6aa6f8)
 ![ELT](https://img.shields.io/badge/Process-ELT-informational?style=flat&logo=dataiku&logoColor=white&color=6aa6f8)
 ![Data Modeling](https://img.shields.io/badge/Modeling-Data_Modeling-informational?style=flat&logo=databricks&logoColor=white&color=6aa6f8)
+![Airflow](https://img.shields.io/badge/Orchestration-Apache_Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=6aa6f8)
+![Prefect](https://img.shields.io/badge/Orchestration-Prefect-informational?style=flat&logo=prefect&logoColor=white&color=6aa6f8)
 
 **Databases:**  
 ![MySQL](https://img.shields.io/badge/DB-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
@@ -50,9 +52,7 @@ me.say_hi()
 **Cloud & DevOps:**  
 ![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=6aa6f8)
 ![Docker](https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
-![Git](https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
-![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-
+![CI/CD](https://img.shields.io/badge/DevOps-CI%2FCD-informational?style=flat&logo=gitlab&logoColor=white&color=6aa6f8)
 
 <!-- ## &#x1f4c8; GitHub Stats
 
@@ -66,5 +66,5 @@ me.say_hi()
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zhenye-na&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=nrnavaneeet&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
