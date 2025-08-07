@@ -24,10 +24,10 @@ me.say_hi()
 ```
 ## 📝 Blogs
 
-- Datatrack: Stop Panicking About Database Changes, Managing databases doesn’t have to be complicated: https://medium.com/@navaneetnr/datatrack-stop-panicking-about-database-changes-d7449d1ee529
+- Datatrack: Stop Panicking About Database Changes: https://medium.com/@navaneetnr/datatrack-stop-panicking-about-database-changes-d7449d1ee529
 - Stop Solving 500+ LeetCode Problems. Try This 3-Step Pattern System Instead: https://medium.com/@navaneetnr/stop-solving-500-leetcode-problems-try-this-3-step-pattern-system-instead-3c463f8cc602
-- Krishna’s Viśvarūpa and the Multiverse Theory, Ancient wisdom meets modern science: https://medium.com/@navaneetnr/krishnas-vi%C5%9Bvar%C5%ABpa-and-the-multiverse-theory-an-ancient-vision-of-infinite-realities-7df103fead68
-- A Cashless Society: Exploring Bitcoin’s Role in the Future of Payments, Bitcoin & beyond: decoding the cashless future: https://medium.com/@navaneetnr/a-cashless-society-exploring-the-role-of-bitcoin-in-the-future-of-payments-593669cce190
+- Krishna’s Viśvarūpa and the Multiverse Theory: https://medium.com/@navaneetnr/krishnas-vi%C5%9Bvar%C5%ABpa-and-the-multiverse-theory-an-ancient-vision-of-infinite-realities-7df103fead68
+- A Cashless Society: https://medium.com/@navaneetnr/a-cashless-society-exploring-the-role-of-bitcoin-in-the-future-of-payments-593669cce190
 
 
 ## 🔧 Technologies & Tools
