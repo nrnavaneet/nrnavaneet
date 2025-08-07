@@ -22,7 +22,7 @@ class DataEngineer:
 me = DataEngineer()
 me.say_hi()
 ```
-## 📝 Blogs
+## Blogs
 
 - Datatrack: Stop Panicking About Database Changes: https://medium.com/@navaneetnr/datatrack-stop-panicking-about-database-changes-d7449d1ee529
 - Stop Solving 500+ LeetCode Problems. Try This 3-Step Pattern System Instead: https://medium.com/@navaneetnr/stop-solving-500-leetcode-problems-try-this-3-step-pattern-system-instead-3c463f8cc602
@@ -30,7 +30,7 @@ me.say_hi()
 - A Cashless Society: https://medium.com/@navaneetnr/a-cashless-society-exploring-the-role-of-bitcoin-in-the-future-of-payments-593669cce190
 
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
