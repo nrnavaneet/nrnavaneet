@@ -16,7 +16,7 @@ class DataEngineer:
         self.language_spoken = ["en_US", "hi_IN"]
 
     def say_hi(self):
-        print("Thanks for visiting! I build open-source tools and data pipelines.")
+        print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
 me = DataEngineer()
