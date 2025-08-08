@@ -44,7 +44,6 @@ me.say_hi()
 ![Data Modeling](https://img.shields.io/badge/Modeling-Data_Modeling-informational?style=flat&logo=databricks&logoColor=white&color=6aa6f8)
 
 **Orchestration:**
-
 ![Airflow](https://img.shields.io/badge/Orchestration-Apache_Airflow-informational?style=flat&logo=apache-airflow&logoColor=white&color=6aa6f8)
 ![Prefect](https://img.shields.io/badge/Orchestration-Prefect-informational?style=flat&logo=prefect&logoColor=white&color=6aa6f8)
 
