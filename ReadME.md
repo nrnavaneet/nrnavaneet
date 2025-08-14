@@ -21,8 +21,6 @@ class DataEngineer:
 
 me = DataEngineer()
 me.say_hi()
-
-# ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nrnavaneet&show_icons=true&theme=transparent)
 ```
 
 ## Blogs
