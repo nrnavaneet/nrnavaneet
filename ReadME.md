@@ -74,9 +74,9 @@ me.say_hi()
 ## Highlight Projects
 
 <a href="https://github.com/nrnavaneet/datatrack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nrnavaneet&repo=datatrack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Datatrack" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nrnavaneet&repo=datatrack&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DataTrack" />
 </a>
 <a href="https://github.com/nrnavaneet/neurosync](https://github.com/nrnavaneet/datasurge">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nrnavaneet&repo=datasurge&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="Datasurge" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nrnavaneet&repo=datasurge&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DataSurge" />
 </a>
 
